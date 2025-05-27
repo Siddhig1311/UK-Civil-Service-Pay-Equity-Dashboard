@@ -16,7 +16,6 @@ This Power BI dashboard explores **pay equity, diversity, and representation** a
 
 ## 📁 Files Included
 - `Siddhi Gholap (2).pdf` – Final dashboard in PDF format  
-- *(Optional)* `Siddhi Gholap.pbix` – Power BI source file  
 
 ---
 
